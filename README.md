@@ -1,7 +1,9 @@
 Associative Arrays
 ==================
-
-Starter code for a CSC-207 project on associative arrays.
-
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
+CSC-207
+@Author
+Kostiantyn Tsymbal
+@Resources
+Starter Code was provided by Sam Rebelsky. Also for this project I used: class readings, labs, Oracle Java Docs.
+@Collaboration
+-
